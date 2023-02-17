@@ -1,0 +1,14 @@
+---
+title: "index.rmd"
+author: "Hannah"
+date: "2023-02-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Monarch Butterfly *Danaus Plexippus*](https://i.natgeofe.com/k/9acd2bad-fb0e-43a8-935d-ec0aefc60c2f/monarch-butterfly-grass_4x3.jpg)
+
+1
